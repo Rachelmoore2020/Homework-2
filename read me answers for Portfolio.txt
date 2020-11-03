@@ -1,1 +1,26 @@
 Read me text for portfolio page.
+
+Rachel Moore
+
+https://github.com/Rachelmoore2020
+
+rachelmoore6822@gmail.com
+
+Node File Generator
+
+The Node File Generator writes a README.md file and is populated by user input via prompts. The file contains a Title, table of Contents, information about the license, contributors, installation, usage, and testing. A gif demonstrates the operation of the generator.
+
+AS A developer I WANT a README generator SO THAT I can quickly create a professional README for a new project.
+
+npm i
+
+Rachel Moore
+
+npm test
+
+nothing
+
+nothing
+
+gif link:
+https://drive.google.com/file/d/1Vqc1J4j_L_FCeOzicnlXXtA8AvV4atii/view?usp=sharing

@@ -4,6 +4,9 @@
 
   ![License](https://img.shields.io/badge/License--blue.svg "License Badge")
   
+  Deployed Page can be found here:
+  https://rachelmoore2020.github.io/Rachel-Moore-Portfolio/
+  
 
 
     # Table of Contents
@@ -17,6 +20,7 @@
 * [Testing](#what-command-should-be-run-to-run-tests)
 * [License](#what-license-is-the-application-covered-under)
 * [Questions](#questions)
+* [Demonstration](#demonstration)
     
 
 ## Description:
@@ -44,12 +48,16 @@
     
 
 ## Questions:
-For questions about Node File Generator, visit my GitHub page:
-    https://github.com/Rachelmoore2020
-  
-  ## You may also contact me via email at:
-  rachelmoore6822@gmail.com
+For questions you may also contact me via email at:
+rachelmoore6822@gmail.com
+or visit my GitHub page at:
+https://github.com/Rachelmoore2020
+
+## Demonstration:
+![Portfolio demo](https://user-images.githubusercontent.com/68473729/98039315-85404080-1dec-11eb-96fe-d679b410862e.gif)
+
   
   ## License:
   Click on the link to find information about the license
   [License](https://opensource.org/licenses/)
+
