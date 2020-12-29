@@ -1,4 +1,11 @@
+h6 {
+    text-indent: 4px;
+    line-height: normal;
+}
 
+h4 {
+    text-indent: 4px;
+}
  
   img {
     border-style: none;
